@@ -161,5 +161,5 @@ if __name__ == '__main__':
     yt_dict = load_yt_dict("yt_url.json")
     with open("readme.md", mode="w") as readme:
         chart = generate_md_chart(music_dict, record, over14p_results(record), yt_dict)
-        text = "# 14+以上のリザルトと手元動画\n\n{}".format(chart)
+        text = "# 14+以上のリザルトと手元動画\n\nスコアと対応してない動画があるのでがんばって撮る\n\n{}".format(chart)
         readme.write(text)
