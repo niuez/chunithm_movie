@@ -1,5 +1,7 @@
 # 14+以上のリザルトと手元動画
 
+スコアと対応してない動画があるのでがんばって撮る
+
 |title|best|diff|Lv.|score|const|rate|yt|
 |:---|:---:|:---:|:---:|---:|---:|---:|:---:|
 |業 -善なる神とこの世の悪について-||MAS|15|`1002960`|15.4|16.69||
@@ -74,7 +76,7 @@
 |Opfer|\*|MAS|14.5|`1008105`|14.8|16.86|[yt](https://youtu.be/Ssx3OnnNeUU)|
 |夕焼けのRed Parade|\*|MAS|14.5|`1008094`|14.8|16.85|[yt](https://youtu.be/eHr9BIpjhMA)|
 |Megameteor|\*|MAS|14.5|`1008026`|14.8|16.85||
-|AstrøNotes.|\*|MAS|14.5|`1007991`|14.8|16.84||
+|AstrøNotes.|\*|MAS|14.5|`1007991`|14.8|16.84|[yt](https://youtu.be/bfmsRMUTHIU)|
 |MARENOL||MAS|14.5|`1007590`|14.8|16.8|[yt](https://youtu.be/mkb0zQyry8I)|
 |Ascension to Heaven||MAS|14.5|`1007574`|14.8|16.8||
 |AMAZING MIGHTYYYY!!!!||MAS|14.5|`1007540`|14.8|16.8||
