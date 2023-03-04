@@ -15,7 +15,7 @@ jobs:
           pip install requests
       - name: run python
         env:
-          CHUNIREC_TOKEN= ${{ vars.CHUNIREC_TOKEN }}
+          CHUNIREC_TOKEN: ${{ vars.CHUNIREC_TOKEN }}
         run: |
           python chunirec.py
       - name: commit files
